@@ -1,0 +1,8 @@
+{
+  "id": "follow-jacob.social-009",
+  "type": "follow",
+  "author": "ed25519:1df3c8361dee47bef9950138b2326acf77a382877b4448b5d9c6687bb56ab217",
+  "created": "2026-09-10T07:07:33.286971Z",
+  "target": "ed25519:9ba27e3f92fd661b4a4b1d82c7b88937b4eeca00b5919659602931eb5fecc7a5",
+  "signature": "ZnEL7jz2mPdJAMVu1XAubirIyl5RitDUVFEPZJ9Y7SImtu07lAUQ0yfHT+elVI+cON6cFbFXVpv3BN1GqeT/Cg=="
+}

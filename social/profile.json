@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:1df3c8361dee47bef9950138b2326acf77a382877b4448b5d9c6687bb56ab217",
   "handle": "jacob.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/jacob-social.git",
   "displayName": "Jacob",
   "bio": "Student at UTS",
   "created": "2026-09-10T06:36:59.552279Z",
-  "signature": "DDS4IWoZSiwyE6YtwhQADJjjL+5JJ7T7w8LGKzK9pYWxlUYy7/L6AnmfDI16wLjaxtBi0sHws7i7fXLxqO9PDw=="
+  "signature": "C9YzcR1cqqVBIZ99rBtPmVngo11iMEjKAZ5+A4NjpI3oyEVNkIJ86Tu7XxEvXnJ5q4jnddj5T7IlNDXdsdguCg=="
 }

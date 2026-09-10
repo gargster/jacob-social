@@ -1,9 +1,9 @@
 {
-  "publicKey": "ed25519:676fa51d8802ceaabd113eea01057eba2d12915eecdeb70aff82e67c4ba3d6c1",
-  "handle": "sam.social",
-  "repoURL": "https://github.com/gargster/sam-social.git",
-  "displayName": "Sam",
-  "bio": "Student at UNSW",
-  "created": "2026-09-06T09:20:43.333732Z",
-  "signature": "b3aWG9adkGJLdviYbCi7D5VzrU7rQ5DyYSyhdDzzRuUPl7N6zZUdgW9hUaKZGiUF5L3TfSTrwuenwm6jQbe4Cg=="
+  "publicKey": "ed25519:1df3c8361dee47bef9950138b2326acf77a382877b4448b5d9c6687bb56ab217",
+  "handle": "jacob.social",
+  "repoURL": null,
+  "displayName": "Jacob",
+  "bio": "Student at UTS",
+  "created": "2026-09-10T06:36:59.552279Z",
+  "signature": "DDS4IWoZSiwyE6YtwhQADJjjL+5JJ7T7w8LGKzK9pYWxlUYy7/L6AnmfDI16wLjaxtBi0sHws7i7fXLxqO9PDw=="
 }
